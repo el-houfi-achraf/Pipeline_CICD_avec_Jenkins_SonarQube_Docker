@@ -1,4 +1,4 @@
-Pipeline CI/CD avec Jenkins, SonarQube et Docker
+# Pipeline CI/CD avec Jenkins, SonarQube et Docker
 
 ## 🎯 Objectifs pédagogiques
 
